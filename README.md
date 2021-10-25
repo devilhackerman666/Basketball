@@ -1,3 +1,6 @@
+gestor de campeonato de baloncesto. (simulación de planillacion, estadisticas)
+
+
 las siguientes son instrucciones de las funcionalidades de la aplicacion desarrollada.
 
 1. ingresar equipo
